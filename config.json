@@ -9,7 +9,7 @@
 	"AWS_SECRET_KEY": null,
 	"MEGA_EMAIL": null,
 	"MEGA_PASS": null,
-	"DBKEY": null,
-	"DBSECRET" : null,
-	"DBTOKEN" : null
+	"DB_KEY": null,
+	"DB_SECRET": null,
+	"DB_TOKEN": null,
 }
