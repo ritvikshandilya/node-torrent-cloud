@@ -14,6 +14,9 @@
 		"AWS_ACCESS_KEY": { "required": false },
 		"AWS_SECRET_KEY": { "required": false },
 		"MEGA_EMAIL": { "required": false },
-		"MEGA_PASS": { "required": false }
+		"MEGA_PASS": { "required": false },
+		"DB_KEY": { "required": false },
+		"DB_SECRET": { "required": false },
+		"DB_TOKEN": { "required": false }
 	}
 }
